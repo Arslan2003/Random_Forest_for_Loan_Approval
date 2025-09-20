@@ -4,7 +4,7 @@ A machine learning project that applies the Random Forest Classifier to predict 
 
 <br>
 
-## Overview
+## 📈 Overview
 
 This repository contains a stand-alone implementation of a Random Forest model for loan approval classification. The main workflow is:
 1. Data Preprocessing – Cleaning and preparing the dataset (handling categorical features, missing values, etc.).
@@ -15,7 +15,7 @@ This repository contains a stand-alone implementation of a Random Forest model f
 
 <br>
 
-## Results
+## 📊 Results
 
 > Baseline accuracy: ~80%
 
@@ -26,7 +26,7 @@ This makes Random Forest a robust choice for loan approval prediction compared t
 
 <br>
 
-## Installation & Usage
+## ⚙️ Installation & Usage
 
 1. Clone the repository:
 ```
@@ -44,7 +44,7 @@ python random_forest_for_loan-approval.py
 
 <br>
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Here are a few ideas for future improvements:
 - Combine Random Forest with other classifiers (Ensemble Methods).
 - Experiment with feature engineering to improve model interpretability.
@@ -55,25 +55,25 @@ If you’d like to contribute, please fork the repo and submit a pull request af
 
 <br>
 
-## Author
+## 🧑‍💻 Author
 [Arslonbek Ishanov](https://github.com/Arslan2003) - First-Class Data Scientist & AI/ML Enthusiast
 
 <br>
 
-## License
+## ⚖️ License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 <br>
 
-## Learn More
-For an in-depth explanation of the methodology, experiments, and analysis, please refer to the full report included in this repository.
-
-<br>
-
-## References
+## 📚 References
 [Original Dataset on Kaggle](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 
 <br>
 
-## Tags
+## 🔗 Learn More
+For an in-depth explanation of the methodology, experiments, and analysis, please refer to the full report included in this repository.
+
+<br>
+
+## 🏷️ Tags
 `Machine Learning` `Random Forest` `Classification` `Loan Approval` `AI in Finance` `Python` `Scikit-Learn`
