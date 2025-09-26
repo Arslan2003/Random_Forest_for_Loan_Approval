@@ -85,7 +85,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 <br>
 
 ## 🔗 Learn More
-For an in-depth explanation of the methodology, experiments, and analysis, please refer to the [report](Random_Forest_for_Loan_Approval_-_Report.pdf).
+For an in-depth explanation of the methodology, experiments, and analysis, please refer to the [report](Random_Forest_for_Loan_Approval_-_Report.pdf).  
+The datasets were downloaded from [Kaggle](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset).
 
 <br>
 
