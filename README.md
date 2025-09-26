@@ -33,14 +33,28 @@ This makes Random Forest a robust choice for loan approval prediction compared t
 git clone https://github.com/Arslan2003/Random_Forest_for_Loan-Approval.git
 cd Random_Forest_for_Loan-Approval
 ```
-2. Install dependencies:
+2. Create a Virtual Environment (Recommended):
+```
+# Using venv
+python -m venv venv
+
+# Activate the environment
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
+```
+3. Install Dependencies:
 ```
 pip install -r requirements.txt
 ```
-3. Run the notebook or script to train and evaluate the model:
+4. Dataset Check
+Ensure the datasets (```train.csv``` and ```test.csv```) are in the repository root folder.
+5. Run the Jupyter Notebook:
 ```
-python random_forest_for_loan-approval.py
+jupyter notebook RF_for_Loan_Approval.ipynb
 ```
+6. Experiment!
 
 <br>
 
@@ -71,7 +85,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 <br>
 
 ## 🔗 Learn More
-For an in-depth explanation of the methodology, experiments, and analysis, please refer to the full report included in this repository.
+For an in-depth explanation of the methodology, experiments, and analysis, please refer to the [report](Random_Forest_for_Loan_Approval_-_Report.pdf).
 
 <br>
 
