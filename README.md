@@ -1,3 +1,5 @@
+<img width="100%" alt="ML in Loan Approval" src="https://github.com/user-attachments/assets/74d36144-ac7c-4465-ab99-af4559779d48" />
+
 # Random Forest for Loan Approval
 
 A machine learning project that applies the Random Forest Classifier to predict loan approval decisions. The project demonstrates how AI can support financial institutions in automating risk assessment and improving lending accuracy.
